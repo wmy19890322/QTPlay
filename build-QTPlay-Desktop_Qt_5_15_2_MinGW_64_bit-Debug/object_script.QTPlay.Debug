@@ -1,0 +1,12 @@
+debug/FFMpegControl.o
+debug/ThreadAudio.o
+debug/ThreadVideo.o
+debug/VideoWidget.o
+debug/main.o
+debug/MainWindow.o
+debug/qrc_qmake_qmake_qm_files.o
+debug/moc_FFMpegControl.o
+debug/moc_MainWindow.o
+debug/moc_ThreadAudio.o
+debug/moc_ThreadVideo.o
+debug/moc_VideoWidget.o

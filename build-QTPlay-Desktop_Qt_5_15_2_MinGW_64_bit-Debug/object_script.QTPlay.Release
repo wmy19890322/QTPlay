@@ -1,0 +1,12 @@
+release/FFMpegControl.o
+release/ThreadAudio.o
+release/ThreadVideo.o
+release/VideoWidget.o
+release/main.o
+release/MainWindow.o
+release/qrc_qmake_qmake_qm_files.o
+release/moc_FFMpegControl.o
+release/moc_MainWindow.o
+release/moc_ThreadAudio.o
+release/moc_ThreadVideo.o
+release/moc_VideoWidget.o
